@@ -1,1 +1,4 @@
 Ejercicio de git - versión 2
+
+
+Autor: Ezequiel Di Pierro
